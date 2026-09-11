@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Buy on Payhip](https://img.shields.io/badge/Buy-on_Payhip-ff69b4)](https://payhip.com/product/crypto-funding-scanner)
+[![Buy on Payhip](https://img.shields.io/badge/Buy-on_Payhip-ff69b4)](https://payhip.com/b/Lop4l)
 [![Live demo](https://img.shields.io/badge/Live-demo-58a6ff)](https://shengxuanling.github.io/crypto-arbitrage-tools/)
 
 ## What this does
@@ -33,7 +33,7 @@ python crypto_analysis.py --min-annualized 5
 
 ## Price
 **€5 one-time** — includes the tool + updates.
-[Paid on Payhip →](https://payhip.com/product/crypto-funding-scanner) · [Try live demo →](https://shengxuanling.github.io/crypto-arbitrage-tools/)
+[Paid on Payhip →](https://payhip.com/b/Lop4l) · [Try live demo →](https://shengxuanling.github.io/crypto-arbitrage-tools/)
 
 ## Author
 **Shengxuan Ling** — open-source tools for quantitative trading.
